@@ -1,0 +1,9 @@
+*.json
+!package.json
+!package-lock.json
+__pycache__/
+*.pyc
+venv/
+my_env/
+.env
+gee-service-account.json
